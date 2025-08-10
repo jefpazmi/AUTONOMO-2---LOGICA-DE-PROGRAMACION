@@ -23,3 +23,8 @@ REGLAS BASICAS:
 2. "Papel" y "Tijera": GANA TIJERA, tijera corta papel
 3. "Tijera" Y "Piedra": GANA PIEDRA, Piedra machaca tijera
 4. Si eliges una opcion igual que la computadora es un EMPATE
+
+REFERENCIAS 
+LUCIA ESCOBAR DE LA ROSA, 2021, JUEGO PIEDRA PAPEL O TIJERA.PDF
+PLATZI, 2024, TUTORIAL EN LA WEB, platzi.com/tutoriales/4227-python-fundamentos/26613-crea-el-juego-de-piedra-papel-o-tijera-en-python/
+GRUPO DE  DESARROLLADORES EN PYTHON, 2020, realpython.com/python-rock-paper-scissors/
