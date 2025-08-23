@@ -60,5 +60,4 @@ def jugar_piedra_papel_tijera():
 
 # Ejecuta el juego
 jugar_piedra_papel_tijera()
-print ("fin")
 
