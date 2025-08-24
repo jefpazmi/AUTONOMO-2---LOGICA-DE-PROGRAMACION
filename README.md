@@ -28,3 +28,21 @@ REFERENCIAS
 LUCIA ESCOBAR DE LA ROSA, 2021, JUEGO PIEDRA PAPEL O TIJERA.PDF
 PLATZI, 2024, TUTORIAL EN LA WEB, platzi.com/tutoriales/4227-python-fundamentos/26613-crea-el-juego-de-piedra-papel-o-tijera-en-python/
 GRUPO DE  DESARROLLADORES EN PYTHON, 2020, realpython.com/python-rock-paper-scissors/
+
+ACTLIZACION 23-08-2025
+
+DESCRIPCION DEL JUEGO
+Se debe ingresar el nombre del usuario
+Se usa opciones por parte del usuario: debe ingresar cualquier de las opciones
+Piedra.
+Papel.
+Tijera.
+Salir.
+Si el usurio elige salir, procedera enviar un mensaje y saldra del juego.
+Si el usurio digital mal el ingreso de las opciones o digita algo diferente se mostrara un mensaje donde indica que la opcion no es valida.
+La computadora hara una eleccion de manera aleatoria eligiendo de una lista.
+
+REGLAS BASICAS
+Piedra vence a Tijera
+Tijera vence a Papel
+Papel vence a Piedra
